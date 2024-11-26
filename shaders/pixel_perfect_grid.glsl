@@ -4,7 +4,7 @@
 // license: GPL General Public License v3
 
 #pragma parameter sub_red "Pixel border brightness R" 0.76 0.0 1.0 0.01
-#pragma parameter sub_green "Pixel border brightness G" 0.72 0.0 1.0 0.01
+#pragma parameter sub_green "Pixel border brightness G" 0.74 0.0 1.0 0.01
 #pragma parameter sub_blue "Pixel border brightness B" 0.8 0.0 1.0 0.01
 
 #pragma parameter f_red "Pixel brightness R" 1.04 0.0 1.5 0.01
@@ -111,7 +111,7 @@ uniform COMPAT_PRECISION float h_scale;
 uniform COMPAT_PRECISION float h_str;
 #else
 #define sub_red 0.76
-#define sub_green 0.72
+#define sub_green 0.74
 #define sub_blue 0.80
 
 #define f_red 1.04
