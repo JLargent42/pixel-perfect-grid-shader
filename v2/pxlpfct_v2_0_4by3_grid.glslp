@@ -1,0 +1,6 @@
+shaders = 1
+
+shader0 = shaders/pxlpfct_v2_0.glsl
+filter_linear0 = false
+reducer = "0.800000"
+reducer_y = "0.800000"
