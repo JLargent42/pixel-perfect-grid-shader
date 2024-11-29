@@ -1,6 +1,9 @@
 # pixel-perfect-grid-shader
 A GLSL shader to scale 240x160 content onto a 640x480 RGB display
 
+![DSC_0994](https://github.com/user-attachments/assets/c6865bca-d065-42bb-8512-37b4d9e0cb63)
+
+
 This is a GLSL shader designed to minimize scaling artifacts when scaling 240x160 content onto a 640x480 RGB display.
 
 Version 2 of this shader takes a different objective from version 1: rather than trying to create the most balanced pixels possible at any cost, V2 tries to balance pixels as much as possible without any major artifacts.
